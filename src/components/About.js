@@ -33,7 +33,7 @@ export default class About extends Component {
                                 <p className="card-text">
                                     News Monkey is a React app that lets you browse the latest news from around the world. You can choose from different categories, such as business, entertainment, health, science, sports, and technology. News Monkey uses News API to fetch the news articles from various sources and display them in a user-friendly interface. News Monkey is component rich with features like infinity scroll, responsive design, bootstrap styling, and more. News Monkey is your one-stop destination for all the news you need. Try it out today and stay updated with the world.🐵
                                 </p>
-                                <a href="" className="btn btn-primary">Source Code</a>
+                                <a href="https://github.com/Ansuman-07/NewsMonkey" className="btn btn-primary" target="_blank" >Source Code</a>
                             </div>
                         </div>
                     </div>
